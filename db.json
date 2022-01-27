@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Arun",
+      "lastName": "Pandi",
+      "email": "arunpandi@gmail.com",
+      "mobile": 6381541901,
+      "salary": "$ 50000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "fullname": "Arunpandi",
+      "email": "arunpandi@gmail.com",
+      "password": "syatem@123",
+      "mobile": 6381541901,
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
